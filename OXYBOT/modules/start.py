@@ -8,11 +8,11 @@ START_BUTTON = [
         Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="help_back")
     ],
     [
-        Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "@II_ADI_II"),
+        Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/II_ADI_II"),
         Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/ll_VIP_SUPPORT_ll")
     ],
     [
-        Button.url("★𝗖𝗢𝗗𝗘𝗥★", "@II_ADI_II")
+        Button.url("★𝗖𝗢𝗗𝗘𝗥★", "https://t.me/II_ADI_II")
     ]
 ]
 
